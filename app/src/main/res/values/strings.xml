@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Codex Transcriber</string>
+    <string name="app_subtitle">Snapdragon 8 Elite Gen 5 • Hexagon NPU Media Studio</string>
+    <string name="section_input_source">Input Source &amp; Recursive Scanner</string>
+    <string name="mode_single_file">Single File</string>
+    <string name="mode_batch_dir">Batch Directory (incl. Subfolders)</string>
+    <string name="btn_browse_file">Select Media File</string>
+    <string name="btn_browse_dir">Scan Local Directory</string>
+    <string name="btn_load_demo_workspace">Generate Local Studio Tree</string>
+    <string name="section_npu_config">NPU &amp; Whisper Engine Configuration</string>
+    <string name="label_model_profile">On-Device Profile</string>
+    <string name="label_quantization">Quantization</string>
+    <string name="label_accelerator">Hardware Delegate</string>
+    <string name="label_compute_type">Compute Precision</string>
+    <string name="section_processing_options">Processing &amp; Metadata Sync Options</string>
+    <string name="label_beam_size">Beam Size</string>
+    <string name="label_vad_filter">VAD Silence Filter</string>
+    <string name="label_overwrite_existing">Overwrite Existing .LRC / .SRT</string>
+    <string name="label_auto_metadata_sync">Sync Audio Metadata to Video &amp; Output</string>
+    <string name="output_policy_description">Audio files (.wav, .mp3, .flac, .aac, .m4a, .ogg) generate .lrc if not present. Video files (.mp4, .mkv, .avi, .mov, .wmv, .flv) generate .srt if not present. Audio ID3 metadata syncs automatically to matching video files and timed outputs in place.</string>
+    <string name="section_spectrogram">Live Mel Spectrogram (128-Mel FFT)</string>
+    <string name="spectrogram_empty_prompt">Select a media file or start batch processing to render the real-time 128-bin Mel spectrogram</string>
+    <string name="label_file_progress">File Progress</string>
+    <string name="label_batch_progress">Batch Progress</string>
+    <string name="btn_start_transcription">Start Transcription</string>
+    <string name="btn_stop_after_file">Stop After Current</string>
+    <string name="btn_force_stop">Force Immediate Stop</string>
+    <string name="section_file_queue">File Queue &amp; Metadata Sync Status</string>
+    <string name="queue_empty_title">No Media Files Queued</string>
+    <string name="queue_empty_subtitle">Pick a local folder to recursively scan subfolders for audio &amp; video files, or generate a real local multi-folder studio workspace to test immediately.</string>
+</resources>

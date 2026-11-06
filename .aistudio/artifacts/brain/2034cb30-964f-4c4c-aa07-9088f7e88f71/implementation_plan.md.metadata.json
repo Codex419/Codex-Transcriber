@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for Codex NPU Transcriber on Android: recursive local directory scanning for audio (.lrc) and video (.srt) generation, automatic audio-to-video metadata synchronization, Snapdragon 8 Elite Gen 5 Hexagon NPU acceleration pipeline, live Mel spectrogram visualizer with progress playhead, and compact batch queue with rolling ETA.",
+  "updatedAt": "2026-11-05T22:14:28.736780575Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Codex Transcriber",
+  "description": "Snapdragon 8 Elite Gen 5 NPU-accelerated recursive audio & video transcriber generating in-place LRC and SRT files with automatic audio-to-video metadata synchronization and a live Mel spectrogram visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
